@@ -3,4 +3,4 @@
 ## Author: casualcorps (www.casualcorps.com)
 ## Notes: Tattles to your default chat frame who has used their taunt nearby
 ## SavedVariablesPerCharacter: 
-TauntTattle.xml
+Taunt_Tattle.xml
