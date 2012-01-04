@@ -1,6 +1,0 @@
-## Interface: 30100
-## Title: Taunt Tattle
-## Author: casualcorps (www.casualcorps.com)
-## Notes: Tattles to your default chat frame who has used their taunt nearby
-## SavedVariablesPerCharacter: 
-TauntTattle.xml
